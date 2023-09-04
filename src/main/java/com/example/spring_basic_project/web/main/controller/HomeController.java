@@ -13,7 +13,14 @@ public class HomeController {
     public String main() {
 
         log.info("@@ 로그출력");
+        System.out.println("xksm");
         return "index";
+    }
+
+    @RequestMapping(value = "/test")
+    public String test() {
+        log.info("@@ 로그출력");
+        return "test";
     }
 
 
