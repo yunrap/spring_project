@@ -8,7 +8,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="robots" content="noindex, nofollow">
-    <title>AtoN-Web</title>
+    <title>spring project</title>
+    <link rel="stylesheet" type="text/css" href="/style/css/common.css">
     <script type="text/javascript" src="/js/jquery-3.7.1.min.js"  /></script>
 </head>
 <body style="min-width: 1280px;">
